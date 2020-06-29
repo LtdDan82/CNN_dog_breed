@@ -1,5 +1,7 @@
 # CNN_dog_breed
-This project is the final project in the Udacity Data Science Nanodegree programm. In this project a CNN is used to identify a dog breed in a given photo. In case there is a human face on the image. The CNN returns the dog breed that is most equivalent to this human face.
+This project is the final project in the Udacity Data Science Nanodegree programm. In this project a CNN is used to identify a dog breed in a given photo. In case there is a human face on the image, the CNN returns the dog breed that is most equivalent to this human face.
+
+Medium post: https://medium.com/@ltddan82/udacity-project-cnn-dog-breed-classifier-666a9f90bf5f
 
 ### Libraries
 scikit-learn, pandas, keras, glob, numpy, random, cv2, matplotlib, tqdm, PIL
