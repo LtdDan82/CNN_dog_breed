@@ -14,7 +14,7 @@ For the final CNN: InceptionV3 with dropout layer and final softmax layer for th
 A medium blog post about the results can be seen here: TODO
 
 ### Acknowledgements
-To get information on the pre-trained CNN models please refer to  https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#6872
-Based on this link the Inception V3 was used
+To get information on the pre-trained CNN models please refer to  https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#6872 .
+Based on this information the Inception V3 architecture was used.
 
 
